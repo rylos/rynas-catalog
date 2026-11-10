@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 2,
-  "published": "2026-11-10T21:40:14Z",
-  "expires": "2026-12-10T21:40:14Z",
+  "serial": 3,
+  "published": "2026-11-10T21:44:37Z",
+  "expires": "2026-12-10T21:44:37Z",
   "archive": {
-    "url": "apps-2.tar.zst",
-    "sha256": "b739d91fbd041cf60cc8508650d34e4b98a4b2bc10cb3c857d80cb6471b3b84b",
-    "size": 51700
+    "url": "apps-3.tar.zst",
+    "sha256": "ffe8ecb727b80bda579dacd843b53289129fa07cdfb0bbdbda727a9bc160fd52",
+    "size": 52729
   },
   "apps": [
     {
@@ -61,6 +61,11 @@
     },
     {
       "id": "immich",
+      "version": "1.0.0",
+      "min_rynas": "0.1.0"
+    },
+    {
+      "id": "jdownloader",
       "version": "1.0.0",
       "min_rynas": "0.1.0"
     },
