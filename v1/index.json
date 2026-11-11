@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 4,
-  "published": "2026-11-11T07:54:07Z",
-  "expires": "2026-12-11T07:54:07Z",
+  "serial": 5,
+  "published": "2026-11-11T16:22:34Z",
+  "expires": "2026-12-11T16:22:34Z",
   "archive": {
-    "url": "apps-4.tar.zst",
-    "sha256": "30075658c6ec4487f20882684442a1fb30a03e7b7f2a6af4f328ddfc31d3046d",
-    "size": 57484
+    "url": "apps-5.tar.zst",
+    "sha256": "21401cd1bf5625c0e5e83349a50c01c8788e586848f374ad9d91a86764995fec",
+    "size": 57481
   },
   "apps": [
     {
@@ -46,7 +46,7 @@
     },
     {
       "id": "forgejo",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "min_rynas": "0.1.0"
     },
     {
@@ -91,7 +91,7 @@
     },
     {
       "id": "nextcloud",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "min_rynas": "0.1.0"
     },
     {
