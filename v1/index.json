@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 3,
-  "published": "2026-11-10T21:44:37Z",
-  "expires": "2026-12-10T21:44:37Z",
+  "serial": 4,
+  "published": "2026-11-11T07:54:07Z",
+  "expires": "2026-12-11T07:54:07Z",
   "archive": {
-    "url": "apps-3.tar.zst",
-    "sha256": "ffe8ecb727b80bda579dacd843b53289129fa07cdfb0bbdbda727a9bc160fd52",
-    "size": 52729
+    "url": "apps-4.tar.zst",
+    "sha256": "30075658c6ec4487f20882684442a1fb30a03e7b7f2a6af4f328ddfc31d3046d",
+    "size": 57484
   },
   "apps": [
     {
