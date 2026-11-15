@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 7,
-  "published": "2026-11-15T13:07:01Z",
-  "expires": "2026-12-15T13:07:01Z",
+  "serial": 8,
+  "published": "2026-11-15T13:38:19Z",
+  "expires": "2026-12-15T13:38:19Z",
   "archive": {
-    "url": "apps-7.tar.zst",
-    "sha256": "fa6366f5133dbc39d296d95ea1d7fd63246e959b87b1a16e5a8e53e865fa9fa4",
-    "size": 57503
+    "url": "apps-8.tar.zst",
+    "sha256": "9dd628b1a36833e89fde77da2f7c38588d7f45663047e1f403f1c636ff3db227",
+    "size": 57673
   },
   "apps": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "id": "arcane",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "min_rynas": "0.1.0"
     },
     {
