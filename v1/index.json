@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 11,
-  "published": "2026-11-18T11:00:03Z",
-  "expires": "2026-12-18T11:00:03Z",
+  "serial": 12,
+  "published": "2026-11-18T16:30:37Z",
+  "expires": "2026-12-18T16:30:37Z",
   "archive": {
-    "url": "apps-11.tar.zst",
-    "sha256": "c07f13d7d692d4d3cb7d142927b6d9ff2c72b1c79fb067a4e7cf87cadea0b3dd",
-    "size": 57676
+    "url": "apps-12.tar.zst",
+    "sha256": "9aeb2569d340afb2546cdd0b52fe152659393616edd29d7904e016a062287186",
+    "size": 57681
   },
   "apps": [
     {
@@ -91,7 +91,7 @@
     },
     {
       "id": "nextcloud",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "min_rynas": "0.1.0"
     },
     {
