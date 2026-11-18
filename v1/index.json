@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 18,
-  "published": "2026-11-18T20:34:14Z",
-  "expires": "2026-12-18T20:34:14Z",
+  "serial": 19,
+  "published": "2026-11-18T20:34:56Z",
+  "expires": "2026-12-18T20:34:56Z",
   "archive": {
-    "url": "apps-18.tar.zst",
-    "sha256": "1b12c923a5e78168b95a3458f12caf11d67cf7415fce305503f188e660b6abe7",
-    "size": 57682
+    "url": "apps-19.tar.zst",
+    "sha256": "50bf1d24c59c06f37d756bf4f7758736bf7b1bb073fc50ff7fcc5fe909d1cdb0",
+    "size": 57681
   },
   "apps": [
     {
@@ -46,7 +46,7 @@
     },
     {
       "id": "forgejo",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "min_rynas": "0.1.0"
     },
     {
