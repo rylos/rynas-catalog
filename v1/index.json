@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 27,
-  "published": "2026-11-19T08:25:17Z",
-  "expires": "2026-12-19T08:25:17Z",
+  "serial": 28,
+  "published": "2026-11-19T09:13:42Z",
+  "expires": "2026-12-19T09:13:42Z",
   "archive": {
-    "url": "apps-27.tar.zst",
-    "sha256": "c9828a79aa5b0a0f055f1f4d4cdfed125849207addc641a878230bf5208d3842",
-    "size": 57657
+    "url": "apps-28.tar.zst",
+    "sha256": "6be7c1e2ee63e5b7f7ddfcf707538faeda8df9293151c29f6f905fbdfd9046ca",
+    "size": 57663
   },
   "apps": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "id": "cloudflared",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "min_rynas": "0.1.0"
     },
     {
