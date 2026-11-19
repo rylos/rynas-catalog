@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 25,
-  "published": "2026-11-19T08:23:20Z",
-  "expires": "2026-12-19T08:23:20Z",
+  "serial": 26,
+  "published": "2026-11-19T08:24:28Z",
+  "expires": "2026-12-19T08:24:28Z",
   "archive": {
-    "url": "apps-25.tar.zst",
-    "sha256": "bad24bce149c9be0b4b57cfcc3c02bbd3c1f32a532b8d5eb40de6ade00b30790",
-    "size": 57682
+    "url": "apps-26.tar.zst",
+    "sha256": "7dd85961cde457fc71589461b689de3ed1c412ed21851898319b8bb99a965e90",
+    "size": 57662
   },
   "apps": [
     {
@@ -61,7 +61,7 @@
     },
     {
       "id": "immich",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "min_rynas": "0.1.0"
     },
     {
