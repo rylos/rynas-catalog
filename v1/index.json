@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 20,
-  "published": "2026-11-19T02:37:03Z",
-  "expires": "2026-12-19T02:37:03Z",
+  "serial": 21,
+  "published": "2026-11-19T02:38:10Z",
+  "expires": "2026-12-19T02:38:10Z",
   "archive": {
-    "url": "apps-20.tar.zst",
-    "sha256": "f7e68d65188c731fa4cc9e12904ad4c025e47e17b9beb34ff081c256ec192658",
-    "size": 57667
+    "url": "apps-21.tar.zst",
+    "sha256": "de9edf082c06cf39f89f8ad51c8cf2be2e484a3b05624f284f57e35802c90579",
+    "size": 57665
   },
   "apps": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "id": "audiobookshelf",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "min_rynas": "0.1.0"
     },
     {
