@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 19,
-  "published": "2026-11-18T20:34:56Z",
-  "expires": "2026-12-18T20:34:56Z",
+  "serial": 20,
+  "published": "2026-11-19T02:37:03Z",
+  "expires": "2026-12-19T02:37:03Z",
   "archive": {
-    "url": "apps-19.tar.zst",
-    "sha256": "50bf1d24c59c06f37d756bf4f7758736bf7b1bb073fc50ff7fcc5fe909d1cdb0",
-    "size": 57681
+    "url": "apps-20.tar.zst",
+    "sha256": "f7e68d65188c731fa4cc9e12904ad4c025e47e17b9beb34ff081c256ec192658",
+    "size": 57667
   },
   "apps": [
     {
@@ -116,7 +116,7 @@
     },
     {
       "id": "portainer-ce",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "min_rynas": "0.1.0"
     },
     {
