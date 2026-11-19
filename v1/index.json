@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 23,
-  "published": "2026-11-19T08:18:20Z",
-  "expires": "2026-12-19T08:18:20Z",
+  "serial": 24,
+  "published": "2026-11-19T08:22:09Z",
+  "expires": "2026-12-19T08:22:09Z",
   "archive": {
-    "url": "apps-23.tar.zst",
-    "sha256": "73cad00d1757fa7333ac708b3b9bf1a2b966ca5aa2ccafac78d8375328f66284",
-    "size": 57672
+    "url": "apps-24.tar.zst",
+    "sha256": "8914a0aa688a79c1b7ed25e0e2f771b533e1b95e3143629e3c9eac0bb9bb647b",
+    "size": 57667
   },
   "apps": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "id": "mealie",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "min_rynas": "0.1.0"
     },
     {
