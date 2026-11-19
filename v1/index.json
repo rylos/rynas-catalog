@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 24,
-  "published": "2026-11-19T08:22:09Z",
-  "expires": "2026-12-19T08:22:09Z",
+  "serial": 25,
+  "published": "2026-11-19T08:23:20Z",
+  "expires": "2026-12-19T08:23:20Z",
   "archive": {
-    "url": "apps-24.tar.zst",
-    "sha256": "8914a0aa688a79c1b7ed25e0e2f771b533e1b95e3143629e3c9eac0bb9bb647b",
-    "size": 57667
+    "url": "apps-25.tar.zst",
+    "sha256": "bad24bce149c9be0b4b57cfcc3c02bbd3c1f32a532b8d5eb40de6ade00b30790",
+    "size": 57682
   },
   "apps": [
     {
@@ -101,7 +101,7 @@
     },
     {
       "id": "paperless-ngx",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "min_rynas": "0.1.0"
     },
     {
