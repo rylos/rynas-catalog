@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 22,
-  "published": "2026-11-19T08:17:30Z",
-  "expires": "2026-12-19T08:17:30Z",
+  "serial": 23,
+  "published": "2026-11-19T08:18:20Z",
+  "expires": "2026-12-19T08:18:20Z",
   "archive": {
-    "url": "apps-22.tar.zst",
-    "sha256": "2a01200d5e6d2fe672694312b6308714c4bf08381b4f08bc658d88c25805dc2d",
-    "size": 57671
+    "url": "apps-23.tar.zst",
+    "sha256": "73cad00d1757fa7333ac708b3b9bf1a2b966ca5aa2ccafac78d8375328f66284",
+    "size": 57672
   },
   "apps": [
     {
@@ -51,7 +51,7 @@
     },
     {
       "id": "frigate",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "min_rynas": "0.1.0"
     },
     {
