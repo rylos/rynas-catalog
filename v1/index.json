@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 32,
-  "published": "2026-11-21T02:18:27Z",
-  "expires": "2026-12-21T02:18:27Z",
+  "serial": 33,
+  "published": "2026-11-21T02:19:23Z",
+  "expires": "2026-12-21T02:19:23Z",
   "archive": {
-    "url": "apps-32.tar.zst",
-    "sha256": "33d5d254e53e2a6eadc7823816d990c36cb4406e8f3f5a2378b72213719cbd92",
-    "size": 57679
+    "url": "apps-33.tar.zst",
+    "sha256": "f62a5df44bd0163ffc3054647639c0e6add15cf50a80b6d5973ff383691e10ac",
+    "size": 57682
   },
   "apps": [
     {
@@ -131,7 +131,7 @@
     },
     {
       "id": "uptime-kuma",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "min_rynas": "0.1.0"
     },
     {
