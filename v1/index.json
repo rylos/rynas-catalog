@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 31,
-  "published": "2026-11-20T20:24:23Z",
-  "expires": "2026-12-20T20:24:23Z",
+  "serial": 32,
+  "published": "2026-11-21T02:18:27Z",
+  "expires": "2026-12-21T02:18:27Z",
   "archive": {
-    "url": "apps-31.tar.zst",
-    "sha256": "3e5d359544cb08ad03e8a07c3e39442ab3cfeb66d565353ae5ff9b093962b2fd",
-    "size": 57672
+    "url": "apps-32.tar.zst",
+    "sha256": "33d5d254e53e2a6eadc7823816d990c36cb4406e8f3f5a2378b72213719cbd92",
+    "size": 57679
   },
   "apps": [
     {
@@ -81,7 +81,7 @@
     },
     {
       "id": "mosquitto",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "min_rynas": "0.1.0"
     },
     {
