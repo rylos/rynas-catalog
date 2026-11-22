@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 35,
-  "published": "2026-11-22T11:28:03Z",
-  "expires": "2026-12-22T11:28:03Z",
+  "serial": 36,
+  "published": "2026-11-22T11:28:44Z",
+  "expires": "2026-12-22T11:28:44Z",
   "archive": {
-    "url": "apps-35.tar.zst",
-    "sha256": "b4c38a72f57c7218c537ce08a4ced43a6c9890dfc5f01cb28e0e087a700a32b1",
-    "size": 57679
+    "url": "apps-36.tar.zst",
+    "sha256": "7e35ac3848c1504137c879a2e83f045eb29f3bf709428deb8a6029bc85eb7e59",
+    "size": 57685
   },
   "apps": [
     {
@@ -106,7 +106,7 @@
     },
     {
       "id": "pigallery2",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "min_rynas": "0.1.0"
     },
     {
