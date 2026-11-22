@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 37,
-  "published": "2026-11-22T19:44:10Z",
-  "expires": "2026-12-22T19:44:10Z",
+  "serial": 38,
+  "published": "2026-11-22T19:45:08Z",
+  "expires": "2026-12-22T19:45:08Z",
   "archive": {
-    "url": "apps-37.tar.zst",
-    "sha256": "ee1d132e99c31d5bbb8314cba280cd046c91e7d552e725ceba86cd6c4007bbee",
-    "size": 57692
+    "url": "apps-38.tar.zst",
+    "sha256": "db23ac08c157a0a14d26719b9916dd0d5c542d2f1faae84ef01cbdb0305abc7c",
+    "size": 57696
   },
   "apps": [
     {
@@ -96,7 +96,7 @@
     },
     {
       "id": "nginx-proxy-manager",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "min_rynas": "0.1.0"
     },
     {
