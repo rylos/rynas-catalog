@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 39,
-  "published": "2026-11-23T12:45:36Z",
-  "expires": "2026-12-23T12:45:36Z",
+  "serial": 40,
+  "published": "2026-11-23T12:46:39Z",
+  "expires": "2026-12-23T12:46:39Z",
   "archive": {
-    "url": "apps-39.tar.zst",
-    "sha256": "37a63c885840c084a2f2bccc8e36781f5a40187a66be88ad8078b852550622b1",
-    "size": 57693
+    "url": "apps-40.tar.zst",
+    "sha256": "beb749b3b8db00f77b1a91cb65886449d1a9071ca447df2541071d17352066f3",
+    "size": 57683
   },
   "apps": [
     {
@@ -121,7 +121,7 @@
     },
     {
       "id": "stirling-pdf",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "min_rynas": "0.1.0"
     },
     {
