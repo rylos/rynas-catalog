@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 38,
-  "published": "2026-11-22T19:45:08Z",
-  "expires": "2026-12-22T19:45:08Z",
+  "serial": 39,
+  "published": "2026-11-23T12:45:36Z",
+  "expires": "2026-12-23T12:45:36Z",
   "archive": {
-    "url": "apps-38.tar.zst",
-    "sha256": "db23ac08c157a0a14d26719b9916dd0d5c542d2f1faae84ef01cbdb0305abc7c",
-    "size": 57696
+    "url": "apps-39.tar.zst",
+    "sha256": "37a63c885840c084a2f2bccc8e36781f5a40187a66be88ad8078b852550622b1",
+    "size": 57693
   },
   "apps": [
     {
@@ -61,7 +61,7 @@
     },
     {
       "id": "immich",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "min_rynas": "0.1.0"
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "id": "paperless-ngx",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "min_rynas": "0.1.0"
     },
     {
