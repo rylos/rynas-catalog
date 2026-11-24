@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 44,
-  "published": "2026-11-24T13:47:31Z",
-  "expires": "2026-12-24T13:47:31Z",
+  "serial": 45,
+  "published": "2026-11-24T15:54:45Z",
+  "expires": "2026-12-24T15:54:45Z",
   "archive": {
-    "url": "apps-44.tar.zst",
-    "sha256": "0d55c2fd3cf0bb2229ba8119a02127ef7c22a83780f1e7ea7ca130b2247389db",
-    "size": 57674
+    "url": "apps-45.tar.zst",
+    "sha256": "040b37e667bbc2892eaa8f7684bce9110e318029823594ba24c6f2262f71165c",
+    "size": 58373
   },
   "apps": [
     {
@@ -126,7 +126,7 @@
     },
     {
       "id": "syncthing",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "min_rynas": "0.1.0"
     },
     {
