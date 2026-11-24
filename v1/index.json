@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 46,
-  "published": "2026-11-24T23:56:00Z",
-  "expires": "2026-12-24T23:56:00Z",
+  "serial": 47,
+  "published": "2026-11-24T23:57:24Z",
+  "expires": "2026-12-24T23:57:24Z",
   "archive": {
-    "url": "apps-46.tar.zst",
-    "sha256": "20f29cd31cfd4b8a22289c957929920a747428251a3ede09914dab5162cb7d3a",
-    "size": 58369
+    "url": "apps-47.tar.zst",
+    "sha256": "9834fabcee5a02e03de57b5fb5a860c8271264db944bfcabd7f00f09652be9d1",
+    "size": 58374
   },
   "apps": [
     {
@@ -56,7 +56,7 @@
     },
     {
       "id": "home-assistant",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "min_rynas": "0.1.0"
     },
     {
