@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "serial": 51,
-  "published": "2026-11-26T12:01:35Z",
-  "expires": "2026-12-26T12:01:35Z",
+  "serial": 52,
+  "published": "2026-11-26T20:21:18Z",
+  "expires": "2026-12-26T20:21:18Z",
   "archive": {
-    "url": "apps-51.tar.zst",
-    "sha256": "0f2c3cee7c4cf80cc8826624617a92f478c38af9fa091fbd9f741a73895013e0",
-    "size": 59022
+    "url": "apps-52.tar.zst",
+    "sha256": "9c8f0ea06db00fd83bec40a993a7a9ed4447f1b4ef5b5ae84ae68b3a16f12051",
+    "size": 59118
   },
   "apps": [
     {
@@ -71,7 +71,7 @@
     },
     {
       "id": "jellyfin",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "min_rynas": "0.1.0"
     },
     {
@@ -86,7 +86,7 @@
     },
     {
       "id": "navidrome",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "min_rynas": "0.1.0"
     },
     {
