@@ -1,148 +1,148 @@
 {
   "schema": 1,
-  "serial": 54,
-  "published": "2026-11-27T23:29:57Z",
-  "expires": "2026-12-27T23:29:57Z",
+  "serial": 55,
+  "published": "2026-11-28T01:44:47Z",
+  "expires": "2026-12-28T01:44:47Z",
   "archive": {
-    "url": "apps-54.tar.zst",
-    "sha256": "e20ddf18e906bd279983dd09c096e07d3ff86fb0fdff3893558e2b993a1b7fdc",
-    "size": 59120
+    "url": "apps-55.tar.zst",
+    "sha256": "103ce23e68e66f87ca8192b59c73b4326e9135bf681a97ad244e55fcefd7bad8",
+    "size": 76491
   },
   "apps": [
     {
       "id": "actual-budget",
       "version": "1.0.0",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "adguard-home",
       "version": "1.0.1",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "arcane",
       "version": "2.0.3",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "audiobookshelf",
       "version": "1.0.1",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "cloudflared",
       "version": "1.0.2",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "dockge",
       "version": "1.0.0",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "dockhand",
       "version": "1.0.3",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "forgejo",
       "version": "1.0.2",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "frigate",
       "version": "1.0.2",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "home-assistant",
       "version": "1.0.2",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "immich",
       "version": "1.1.0",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "jdownloader",
       "version": "1.0.0",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "jellyfin",
       "version": "1.0.1",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "mealie",
       "version": "1.0.1",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "mosquitto",
       "version": "1.0.1",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "navidrome",
       "version": "1.0.1",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "nextcloud",
       "version": "1.0.10",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "nginx-proxy-manager",
       "version": "1.0.2",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "paperless-ngx",
       "version": "1.0.9",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "pigallery2",
       "version": "2.0.0",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "pocket-id",
       "version": "1.0.1",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "portainer-ce",
       "version": "1.0.1",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "stirling-pdf",
       "version": "1.0.2",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "syncthing",
       "version": "2.0.0",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "uptime-kuma",
       "version": "1.0.2",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "vaultwarden",
       "version": "1.0.0",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     },
     {
       "id": "zigbee2mqtt",
       "version": "1.0.0",
-      "min_rynas": "0.1.0"
+      "min_rynas": "0.9.21"
     }
   ]
 }
